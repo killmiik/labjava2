@@ -25,4 +25,3 @@ public class Balance {
             System.out.println("=");
     }
 }
-

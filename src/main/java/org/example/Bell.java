@@ -14,4 +14,3 @@ public class Bell {
         m += 1;
     }
 }
-
